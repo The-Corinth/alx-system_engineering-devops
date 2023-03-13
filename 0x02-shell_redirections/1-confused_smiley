@@ -1,2 +1,2 @@
 #!/bin/bash
-echo file-2
+cat file-2
