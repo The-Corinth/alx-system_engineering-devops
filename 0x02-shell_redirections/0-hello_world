@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "file-1"
+echo "Hello, world"
