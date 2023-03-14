@@ -5,3 +5,4 @@
 4-creating a script that lists environmental variables
 5-creating a script that lists all local variables and environmental variables, and functions
 6-creating a script that creates a new local variable
+7-creating a script that creates a new global variable
