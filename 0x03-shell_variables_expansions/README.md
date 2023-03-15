@@ -9,3 +9,4 @@
 8-Writing a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 9-writing a script that prints the result of power divided by divide followed by a new line
 10-Writing a script that displays the result of BREATH to the power LOVE
+11-writing a script that converts a number from a base of 2 to base of 10
