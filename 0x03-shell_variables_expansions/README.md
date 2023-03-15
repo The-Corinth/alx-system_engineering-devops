@@ -12,3 +12,4 @@
 11-writing a script that converts a number from a base of 2 to base of 10
 12-creating a script that that prints all possible combination of letters except oo
 13-writing a script that prints a number with two decimal places followed by a line
+14-writing a script that converts a number from base 10 to base 16
