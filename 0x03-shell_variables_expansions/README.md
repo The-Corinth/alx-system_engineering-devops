@@ -13,3 +13,4 @@
 12-creating a script that that prints all possible combination of letters except oo
 13-writing a script that prints a number with two decimal places followed by a line
 14-writing a script that converts a number from base 10 to base 16
+15-writing a script that encodes and decodes text using the rot 13 encryption. Assume ASCII.
